@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text File Viewer</title>
+</head>
+<body>
+    <pre id="file-content"></pre>
+</body>
+<script>
+    fetch('sub.txt')
+        .then(response => response.text())
+        .then(data => {
+            const fileContentElement = document.getElementById('file-content');
+            fileContentElement.innerText = data;
+        });
+</script>
+</html>
