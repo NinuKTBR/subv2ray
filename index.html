@@ -1,23 +1,17 @@
-   <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Text File Viewer</title>
 </head>
 <body>
     <pre id="file-content"></pre>
-
-    <script>
-        fetch('https://api.github.com/repos/Ninuktbr/subv2ray/sub.txt', {
-            headers: {
-                Authorization: 'Bearer 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'
-            }
-        })
-        .then(response => response.json())
+</body>
+<script>
+    fetch('sub.text')
+        .then(response => response.text())
         .then(data => {
             const fileContentElement = document.getElementById('file-content');
-            fileContentElement.innerText = atob(data.content);
+            fileContentElement.innerText = data;
         });
-    </script>
-</body>
+</script>
 </html>
-
