@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Text File Viewer</title>
+    <title>GitHub Text File Content</title>
 </head>
 <body>
-    <pre id="file-content"></pre>
+    <pre id="fileContent"></pre>
+    <script>
+        fetch('https://raw.githubusercontent.com/username/repository/branch/path/to/file.txt')
+            .then(response => response.text())
+            .then(content => {
+                const fileContentElement = document.getElementById('fileContent');
+                fileContentElement.textContent = content;
+            })
+            .catch(error => console.log('Error:', error));
+    </script>
 </body>
-<script>
-    fetch('sub.text')
-        .then(response => response.txt())
-        .then(data => {
-            const fileContentElement = document.getElementById('file-content');
-            fileContentElement.innerText = data;
-        });
-</script>
 </html>
