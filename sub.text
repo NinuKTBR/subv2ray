@@ -63,3 +63,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkUwNiIsDQogICJhZGQiOiAicHNtLmlyY2Yuc3Bh
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@sp467.qvqag.com:443?encryption=none&security=tls&fp=chrome&type=ws&path=users%3Fed%3D2048#E07
 trojan://e505ff62-bc60-4113-b922-b40919396462@gmvip01.csadata4g.me:443?security=tls&fp=chrome&type=tcp&headerType=none#E08
 trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@bgptw5.cnamazon.sbs:443?security=tls&sni=tlsdata.cnamazon.sbs&fp=chrome&type=tcp&headerType=none#E09
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZpbHRlcmNoaSBTYWxhbSIsDQogICJhZGQiOiAiaXIxLnNlcGFudGEuY2xpY2siLA0KICAicG9ydCI6ICIzNzk5OSIsDQogICJpZCI6ICJlN2JiY2M0My0yMjZkLTQ4NTQtOWEwMC1iNTA4MmZjZDFhY2EiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
