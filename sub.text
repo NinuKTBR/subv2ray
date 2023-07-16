@@ -27,3 +27,6 @@ vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@mtn7.allform.top:8080?encryption=no
 vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@mtn8.allform.top:8080?encryption=none&security=none&type=ws&host=newtest.zarepour.pro&path=%2F#G%208
 vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@mtn9.allform.top:8080?encryption=none&security=none&type=ws&host=newtest.zarepour.pro&path=%2F#G%209
 vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@zula.ir:8080?encryption=none&security=none&type=ws&host=newtest.zarepour.pro&path=%2F#G%2010
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada3.qowch.com:443?encryption=none&security=tls&fp=chrome&type=ws&path=users%3Fed%3D2048#easa03
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImVhc2EwMiIsDQogICJhZGQiOiAidnVrMi4wYmFkLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9jaGF0IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#easa01
