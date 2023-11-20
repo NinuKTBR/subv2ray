@@ -35,3 +35,4 @@ vless://8b7c2a9a-f626-4c5e-a56b-2ecd382dc44e@all.vipxali.cfd:2083?encryption=non
 vless://ee004334-2c19-4af9-862d-3a6af6db405b@all.vipxali.cfd:2083?encryption=none&security=tls&sni=dm.XsV2ray.cfd&alpn=http%2F1.1%2Ch2&fp=chrome&type=grpc&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ry&mode=gun#S8
 vless://fb1ed176-5fec-4e4c-98d4-9e9c3ac9fcde@190.93.246.241:2087?encryption=none&security=tls&sni=mj.AhV2ray.fun&fp=chrome&type=grpc&serviceName=%40proxy_kafee%2C%40proxy_kafee%2C%40proxy_kafee&mode=gun#S9
 vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@162.159.136.232:443?encryption=none&security=tls&sni=singbox.cypherpunks.asia&alpn=http%2F1.1&fp=chrome&type=ws&host=singbox.cypherpunks.asia&path=%2Fcypherpunks#10
+vless://409f106a-b2f2-4416-b186-5429c9979cd9@54.38.144.4:2053?encryption=none&security=reality&sni=discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=xyz&mode=gun#Reality2
