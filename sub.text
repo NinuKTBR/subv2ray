@@ -7,3 +7,5 @@ vless://303c2a96-816a-4795-b4e7-bce961c71355@195.128.102.239:55663?encryption=no
 vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.31.16.115:8080?encryption=none&security=none&fp=chrome&type=ws&host=newtest.zarepour.pro&path=%2F#V1
 vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@162.159.153.68:8080?encryption=none&security=none&fp=chrome&type=ws&host=newtest.zarepour.pro&path=%2F#V2
 vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.19.255.197:8080?encryption=none&security=none&fp=chrome&type=ws&host=newtest.zarepour.pro&path=%2F#V3
+vless://4aa317c1-ce4e-41f9-cd15-2aa18f2591ab@104.24.196.36:8080?encryption=none&security=none&type=ws&host=newtest.zarepour.pro&path=%2F#G5
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkcwMiIsDQogICJhZGQiOiAiODguMTk4LjkzLjE3NSIsDQogICJwb3J0IjogIjg4ODAiLA0KICAiaWQiOiAiNTg1MzEwMDktYjY2NC00NDViLWI4OTYtN2JiOTAyNmI3NDRkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
