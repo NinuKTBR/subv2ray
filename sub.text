@@ -10,15 +10,6 @@ vless://a7490ef8-974a-46b6-bab8-1804f5cb066d@195.128.102.239:40091?encryption=no
 vless://0d2283c4-d847-439f-b150-41702e3a2052@195.128.102.239:17058?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tuyaus.com&fp=firefox&pbk=x1zvQNJDESh5X8FPr1F4rwdtkCJTplCs9J5KGtLsXQA&sid=62777be9&spx=%2F&type=tcp&headerType=none#3
 vless://72edde99-deb7-424c-be90-a700cdfbb2f6@195.128.102.239:57497?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zula.ir&fp=firefox&pbk=fPUx8FzeTQPFu_7xxn15rho2durFdkF_JVn3LnTlnU0&sid=34d8cceb&spx=%2F&type=tcp&headerType=none#4
 vless://0a57a2e5-e396-4a68-bde3-b78ec2e48857@195.128.102.239:47679?encryption=none&flow=xtls-rprx-vision&security=reality&sni=discord.com&fp=firefox&pbk=XfqRObuEP7FqIkbWj6hm2rOXn4_8ZZtAU_9lySzw1Uk&sid=52312825&spx=%2F&type=tcp&headerType=none#5
-vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@researchgate.net:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G1B
-vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@zula.ir:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G2B
-vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@104.18.5.154:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G3B
-vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@104.31.16.115:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G4B
-vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@91.195.110.123:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G5B
-vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@104.31.16.115:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G6B
-vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@parspack.com:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G7B
-vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@23.227.60.233:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G8B
-vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@cdnjs.com:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G9B
 vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@researchgate.net:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G201
 vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@zula.ir:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G202
 vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@104.18.5.154:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G203
