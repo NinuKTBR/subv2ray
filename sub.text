@@ -12,3 +12,4 @@ vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@104.31.16.115:8080?encryption=none&
 vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@parspack.com:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G207
 vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@23.227.60.233:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G208
 vless://02d59fad-0629-4ca3-b71a-d6c7d6c1f28e@cdnjs.com:8080?encryption=none&security=none&type=ws&host=net.cctvnews.click&path=%2F#G209
+vless://972a2551-e0ea-4194-bcff-33a31584ddf8@49.13.127.80:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=ir.zarepour.pro&pbk=Bd6Z45stw8IhBrXgqe-HFm2FSdYMxXYGR4h8HU3qaTc&sid=61cfbe24&spx=/#Amir
