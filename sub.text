@@ -1,4 +1,4 @@
-vless://95e97cba-449e-4144-8d96-73dd40c15ddb@Amirkhan.xyzx.sbs:443?flow=xtls-rprx-vision&security=reality&encryption=none&type=tcp&sid=0f3236e8&fp=firefox&pbk=dvWRpPFT9DgJZi1x6q-VG9l4TMA_BqvencR1hXbzVCo&headerType=none#SOS
+vless://95e97cba-449e-4144-8d96-73dd40c15ddb@gdfddk.xyzx.sbs:443?type=tcp&security=reality&fp=firefox&pbk=dvWRpPFT9DgJZi1x6q-VG9l4TMA_BqvencR1hXbzVCo&sni=*.zarairan.top&flow=xtls-rprx-vision&sid=0f3236e8&spx=%2F#SOS
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?encryption=none&security=tls&sni=w3.sylarsun.eu.org&type=ws&host=w3.sylarsun.eu.org&path=%2F%3Fed%3D2048#A01
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#A02
 vless://9701c8b3-b2c0-4a70-b5af-da5cf5361a47@45.84.196.148:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=firefox&pbk=SuZTEyms4vQtWwsT7PC6tP1HZFAStjxuzvnI1-xRogU&sid=90462b6a&type=tcp&headerType=none#A03
