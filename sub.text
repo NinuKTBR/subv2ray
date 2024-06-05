@@ -11,15 +11,12 @@ vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?encryption=none&se
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2048#Ninu02
 vless://77188c17-6448-40cd-bd68-552b6753b79e@104.21.59.165:8880?encryption=none&security=none&type=ws&host=falcunargo.e806e7c5e1.workers.dev&path=%2F%3Fed%3D2048#Ninu03
 
-hy2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22WsNoDbIO1l1kylbnpMk6WWYVAqWX@debiantubelinux.space:443?obfs=salamander&obfs-password=vSgTdUGMVBecw7Pi1fLdpzBbKOCD0WyzzGKsy1HvUCJDZXLYm8b1yXAQvasZa9BYeEVhX81vtWKkf3xW&sni=debiantubelinux.space#El01
-
-hysteria2://f6e4b19a3110d19d@207.246.124.135:443/?sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&obfs=salamander&obfs-password=8c3ce17b&insecure=1#EL02
-
-hysteria2://f6e4b19a3110d19d@66.135.28.59:443/?sni=JETFREENET&obfs=salamander&obfs-password=8c3ce17b&insecure=1#EL03
-
-hysteria2://f6e4b19a3110d19d@66.135.28.59:443/?sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b&insecure=1#El04
+hysteria2://gd25pjkHrU4VA2j53xcbdHEI2C97Sz1JVLtpKP1qVsVDIBGwrli1IMsC8aBj7XEDiIi4KF22WsNoDbIO1l1kylbnpMk6WWYVAqWX@debiantubelinux.space:443/?sni=debiantubelinux.space&alpn=h3%2Ch2%2Chttp%2F1.1&obfs=salamander&obfs-password=vSgTdUGMVBecw7Pi1fLdpzBbKOCD0WyzzGKsy1HvUCJDZXLYm8b1yXAQvasZa9BYeEVhX81vtWKkf3xW&insecure=1#El01
+hysteria2://f6e4b19a3110d19d@207.246.124.135:443/?sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=h3%2Ch2%2Chttp%2F1.1&obfs=salamander&obfs-password=8c3ce17b&insecure=1#EL02
+hysteria2://f6e4b19a3110d19d@66.135.28.59:443/?sni=JETFREENET&alpn=h3%2Ch2%2Chttp%2F1.1&obfs=salamander&obfs-password=8c3ce17b&insecure=1#EL03
+hysteria2://f6e4b19a3110d19d@66.135.28.59:443/?sni=www.apple.com&alpn=h3%2Ch2%2Chttp%2F1.1&obfs=salamander&obfs-password=8c3ce17b&insecure=1#El04
 
 
 
 ""T1""
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlQwMSIsDQogICJhZGQiOiAiMTA0LjE3LjIyMy4wIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJhdXRvIiwNCiAgImhvc3QiOiAiMjAwLmt0YnIud29ya2Vycy5kZXYiLA0KICAicGF0aCI6ICIvbGluZGUwNi5pbmRpYXZpZGVvLnNiczo0NDMvbGlua3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIjIwMC5rdGJyLndvcmtlcnMuZGV2IiwNCiAgImFscG4iOiAiaDIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlQwMSIsDQogICJhZGQiOiAiMTYyLjE1OS4xMzQuMTMiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogImF1dG8iLA0KICAiaG9zdCI6ICIyMDAua3Rici53b3JrZXJzLmRldiIsDQogICJwYXRoIjogIi9saW5kZTA2LmluZGlhdmlkZW8uc2JzOjQ0My9saW5rd3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiMjAwLmt0YnIud29ya2Vycy5kZXYiLA0KICAiYWxwbiI6ICJoMiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
